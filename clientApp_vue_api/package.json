@@ -35,7 +35,7 @@
   "dependencies": {
     "@okta/okta-vue": "^2.0.0",
     "axios": "^0.19.2",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "qs": "^6.9.3",
     "vue": "^2.6.11",
     "vue-loader": "^15.9.1",
